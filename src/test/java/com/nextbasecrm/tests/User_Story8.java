@@ -1,5 +1,4 @@
 package com.nextbasecrm.tests;
 
-public class TestBase {
-
+public class User_Story8 {
 }
